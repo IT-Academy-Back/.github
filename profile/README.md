@@ -1,6 +1,6 @@
 # Welcome
 
-## Java
+## Java & Spring Framework
 
 ### Sprint 1: Java Language
 
