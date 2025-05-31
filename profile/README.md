@@ -2,6 +2,17 @@
 
 ## Java
 
+### Sprint 1: Java Language
+
+1. Herència i Polimorfisme
+2. Exceptions
+3. Java Collections
+4. Testing
+5. Java Utils
+6. Genèrics
+7. Annotations
+8. Lambdas
+
 ### [Sprint 2: Bases de dades](https://github.com/IT-Academy-Back/S2-Databases_Java)
 
 1. Estructura de dades - MySQL
