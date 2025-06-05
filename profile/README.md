@@ -29,7 +29,7 @@
 3. Developers Team
 
 ### [Sprint 4: Spring Framework Bàsics](https://github.com/IT-Academy-Back/S4-Spring)
-1. Introducció a Spring
+1. [Introducció a Spring (IN PROGRESS)](https://github.com/IT-Academy-Back/S4-Spring/blob/main/1-Spring_Intro/S4-01-Intro_Spring_Boot.md)
 2. [Api Rest amb Spring boot](https://github.com/IT-Academy-Back/S4-Spring/blob/main/2-Spring_CRUD/S4-02-Api_Rest_amb%20Spring_boot.md)
 
 ### Sprint 5: Spring Framework Avançat
