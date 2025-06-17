@@ -9,8 +9,8 @@
 ### [Sprint 1: Java Language](https://github.com/IT-Academy-Back/S1-Java-Basics) [In Progress]
 
 1. [Herència i Polimorfisme](https://github.com/IT-Academy-Back/S1-Java-Basics/blob/main/01-Herencia_Polimorfisme/Herencia%20Polimorfisme.md)
-2. Exceptions
-3. Java Collections
+2. [Exceptions](https://github.com/IT-Academy-Back/S1-Java-Basics/blob/main/02-Excepcions/Excepcions.md)
+3. [Java Collections](https://github.com/IT-Academy-Back/S1-Java-Basics/blob/main/03-Java_Collections/Java-Collections.md)
 4. Testing
 5. Java Utils
 6. Genèrics
