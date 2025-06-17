@@ -6,9 +6,9 @@
 
 ### [Sprint 0: Java](https://github.com/IT-Academy-Back/S0-Java) [In Progress]
 
-### Sprint 1: Java Language
+### [Sprint 1: Java Language](https://github.com/IT-Academy-Back/S1-Java-Basics) [In Progress]
 
-1. Herència i Polimorfisme
+1. [Herència i Polimorfisme](https://github.com/IT-Academy-Back/S1-Java-Basics/blob/main/01-Herencia_Polimorfisme/Herencia%20Polimorfisme.md)
 2. Exceptions
 3. Java Collections
 4. Testing
