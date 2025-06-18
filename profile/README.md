@@ -6,6 +6,8 @@
 
 ### [Sprint 0: Java](https://github.com/IT-Academy-Back/S0-Java) [In Progress]
 
+- [Bones Pràctiques per a Lliuraments de Projectes](https://github.com/IT-Academy-Back/S0-Java/blob/main/01-entregas/entregas.md)
+
 ### [Sprint 1: Java Language](https://github.com/IT-Academy-Back/S1-Java-Basics) [In Progress]
 
 1. [Herència i Polimorfisme](https://github.com/IT-Academy-Back/S1-Java-Basics/blob/main/01-Herencia_Polimorfisme/Herencia%20Polimorfisme.md)
