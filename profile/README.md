@@ -24,7 +24,7 @@
 1. Estructura de dades - MySQL
 2. [MySQL queries](https://github.com/IT-Academy-Back/S2-Databases_Java/blob/main/2-SQL_Queries/Tasca%20S2.02.%20MySQL%20queries.md)
 3. Estructura de dades - MongoDB
-4. [MongoDB queries](https://github.com/IT-Academy-Back/S2.4-MongoDB-Evaluator)
+4. [MongoDB queries](https://github.com/IT-Academy-Back/S2-Databases_Java/blob/main/4-MongoDB_Queries/Tasca%20S2.4.%20MongoDB%20queries.md)
 
 ### [Sprint 3: Patterns](https://github.com/IT-Academy-Back/S3-Paterns_Java) [In Progress]
 0. [Principis SOLID](https://github.com/IT-Academy-Back/S3-SOLID-JAVA)
