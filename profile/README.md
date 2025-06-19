@@ -26,7 +26,7 @@
 3. Estructura de dades - MongoDB
 4. [MongoDB queries](https://github.com/IT-Academy-Back/S2.4-MongoDB-Evaluator)
 
-### Sprint 3: Patterns
+### Sprint 3: Patterns [In Progress]
 0. [Principis SOLID](https://github.com/IT-Academy-Back/S3-SOLID-JAVA)
 1. Patterns 1
 2. Patterns 2
