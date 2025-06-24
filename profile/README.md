@@ -28,7 +28,7 @@
 4. [MongoDB queries](https://github.com/IT-Academy-Back/S2-Databases_Java/blob/main/4-MongoDB_Queries/Tasca%20S2.4.%20MongoDB%20queries.md)
 
 ### [Sprint 3: Patterns](https://github.com/IT-Academy-Back/S3-Paterns_Java) [In Progress]
-0. [Principis SOLID](https://github.com/IT-Academy-Back/S3-SOLID-JAVA)
+0. [Principis SOLID](https://github.com/IT-Academy-Back/S3-Patterns_Java/tree/main/0-SOLID%20Introduction)
 1. Patterns 1
 2. Patterns 2
 3. Developers Team
