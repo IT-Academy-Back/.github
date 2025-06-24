@@ -14,10 +14,11 @@
 2. [Exceptions](https://github.com/IT-Academy-Back/S1-Java-Basics/blob/main/02-Excepcions/Excepcions.md)
 3. [Java Collections](https://github.com/IT-Academy-Back/S1-Java-Basics/blob/main/03-Java_Collections/Java-Collections.md)
 4. [Testing](https://github.com/IT-Academy-Back/S1-Java-Basics/blob/main/04-Testing/Testing.md)
-5. Java Utils
-6. Genèrics
-7. Annotations
-8. Lambdas
+5. [Java Utils](https://github.com/IT-Academy-Back/S1-Java-Basics/blob/main/05-Java_Utils/Java_Utils.md)
+6. [Genèrics](https://github.com/IT-Academy-Back/S1-Java-Basics/blob/main/06-Generics/Generics.md)
+7. [Annotations](https://github.com/IT-Academy-Back/S1-Java-Basics/blob/main/07-Annotations/Annotations.md)
+8. [Lambdas](https://github.com/IT-Academy-Back/S1-Java-Basics/blob/main/08-Streams_Lambdas/Lambdas.md)
+9. [Enums, Time & Records](https://github.com/IT-Academy-Back/S1-Java-Basics/blob/main/09-enums/enums.md)
 
 ### [Sprint 2: Bases de dades](https://github.com/IT-Academy-Back/S2-Databases_Java)
 
