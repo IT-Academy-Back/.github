@@ -29,7 +29,7 @@
 
 ### [Sprint 3: Patterns](https://github.com/IT-Academy-Back/S3-Paterns_Java) [In Progress]
 0. [Principis SOLID](https://github.com/IT-Academy-Back/S3-Patterns_Java/tree/main/0-SOLID%20Introduction)
-1. Patterns 1
+1. [Patterns 1](https://github.com/IT-Academy-Back/S3-Patterns_Java/tree/main/1-Pattern)
 2. Patterns 2
 3. Developers Team
 
