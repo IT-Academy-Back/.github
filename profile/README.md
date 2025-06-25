@@ -7,8 +7,8 @@
 ### [Sprint 0: Java](https://github.com/IT-Academy-Back/S0-Java) [In Progress]
 
 - [Bones Pràctiques per a Lliuraments de Projectes](https://github.com/IT-Academy-Back/S0-Java/blob/main/01-entregas/entregas.md)
-- Comandes de Bash
-- [Git i GitHub](https://github.com/IT-Academy-Back/S0-Java/blob/main/02-git/git.md)
+- [Introducció a Bash](https://github.com/IT-Academy-Back/S0-Java/blob/main/03-terminal/terminal.md)
+- [Introducció Git i GitHub](https://github.com/IT-Academy-Back/S0-Java/blob/main/02-git/git.md)
 
 ### [Sprint 1: Java Language](https://github.com/IT-Academy-Back/S1-Java-Basics) [In Progress]
 
