@@ -4,7 +4,7 @@
 - Proves de Nivell
 - [Quizzes](https://github.com/IT-Academy-Back/java-sprint-technical-quizzes)
 
-### [Sprint 0: Java](https://github.com/IT-Academy-Back/S0-Java) [In Progress]
+### [Sprint 0: Java](https://github.com/IT-Academy-Back/S0-Java)
 
 - [Bones Pràctiques per a Lliuraments de Projectes](https://github.com/IT-Academy-Back/S0-Java/blob/main/01-entregas/entregas.md)
 - [Introducció a Bash](https://github.com/IT-Academy-Back/S0-Java/blob/main/03-terminal/terminal.md)
