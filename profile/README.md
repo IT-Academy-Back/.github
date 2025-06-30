@@ -10,7 +10,7 @@
 - [Introducció a Bash](https://github.com/IT-Academy-Back/S0-Java/blob/main/03-terminal/terminal.md)
 - [Introducció Git i GitHub](https://github.com/IT-Academy-Back/S0-Java/blob/main/02-git/git.md)
 
-### [Sprint 1: Java Language](https://github.com/IT-Academy-Back/S1-Java-Basics) [In Progress]
+### [Sprint 1: Java Language](https://github.com/IT-Academy-Back/S1-Java-Basics) [In Review]
 
 1. [Herència i Polimorfisme](https://github.com/IT-Academy-Back/S1-Java-Basics/blob/main/01-Herencia_Polimorfisme/Herencia%20Polimorfisme.md)
 2. [Exceptions](https://github.com/IT-Academy-Back/S1-Java-Basics/blob/main/02-Excepcions/Excepcions.md)
