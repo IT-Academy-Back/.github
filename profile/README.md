@@ -29,9 +29,9 @@
 3. Estructura de dades - MongoDB
 4. [MongoDB queries](https://github.com/IT-Academy-Back/S2-Databases_Java/blob/main/4-MongoDB_Queries/Tasca%20S2.4.%20MongoDB%20queries.md)
 
-### [Sprint 3: Patterns]() [In Progress]
-1. [Principis SOLID]( )
-1. [Patterns]()
+### [Sprint 3: Patterns](https://github.com/IT-Academy-Back/S3-Patterns_Java/tree/main)[In Progress]
+1. [Principis SOLID](https://github.com/IT-Academy-Back/S3-Patterns_Java/tree/main/1-%20SOLID)
+1. [Patterns](https://github.com/IT-Academy-Back/S3-Patterns_Java/tree/main/2-Patterns)
 2. Developers Team
 
 ### [Sprint 4: Spring Framework Bàsics](https://github.com/IT-Academy-Back/S4-Spring)
