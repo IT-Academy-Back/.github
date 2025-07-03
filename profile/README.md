@@ -10,7 +10,7 @@
 - [Introducció a Bash](https://github.com/IT-Academy-Back/S0-Java/blob/main/03-terminal/terminal.md)
 - [Introducció Git i GitHub](https://github.com/IT-Academy-Back/S0-Java/blob/main/02-git/git.md)
 
-### [Sprint 1: Java Language](https://github.com/IT-Academy-Back/S1-Java-Basics) [In Review]
+### [Sprint 1: Java Language](https://github.com/IT-Academy-Back/S1-Java-Basics) 
 
 1. [Herència i Polimorfisme](https://github.com/IT-Academy-Back/S1-Java-Basics/blob/main/01-Herencia_Polimorfisme/Herencia%20Polimorfisme.md)
 2. [Exceptions](https://github.com/IT-Academy-Back/S1-Java-Basics/blob/main/02-Excepcions/Excepcions.md)
@@ -29,7 +29,7 @@
 3. Estructura de dades - MongoDB
 4. [MongoDB queries](https://github.com/IT-Academy-Back/S2-Databases_Java/blob/main/4-MongoDB_Queries/Tasca%20S2.4.%20MongoDB%20queries.md)
 
-### [Sprint 3: Patterns](https://github.com/IT-Academy-Back/S3-Patterns_Java/tree/main)[In Progress]
+### [Sprint 3: Patterns](https://github.com/IT-Academy-Back/S3-Patterns_Java/tree/main)
 1. [Principis SOLID](https://github.com/IT-Academy-Back/S3-Patterns_Java/tree/main/1-%20SOLID)
 2. [Patterns](https://github.com/IT-Academy-Back/S3-Patterns_Java/tree/main/2-Patterns)
 	1. [Patterns 1](https://github.com/IT-Academy-Back/S3-Patterns_Java/blob/main/2-Patterns/Tasca-1/README.md)
