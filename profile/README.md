@@ -3,6 +3,7 @@
 ## Java & Spring Framework
 - [Proves de Nivell](https://github.com/IT-Academy-Back/Level-Tests)
 - [Quizzes](https://github.com/IT-Academy-Back/java-sprint-technical-quizzes)
+- Katas
 
 ### [Sprint 0: Java](https://github.com/IT-Academy-Back/S0-Java)
 
