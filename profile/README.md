@@ -51,6 +51,32 @@
 
 ## Fullstack PHP
 
+#### Descripció General
+PHP és un llenguatge de programació de codi obert del costat del servidor, que s'utilitza principalment per a crear pàgines web.
+
+Mentre que els llenguatges del costat del client com HTML, CSS o JavaScript són interpretats pel navegador web en el moment d'obrir una pàgina, el codi PHP s'executa en el servidor web.
+
+Malgrat tenir una sintaxi senzilla, PHP ofereix una quantitat increïble de funcions. Aquest llenguatge de programació es distingeix pel seu ampli suport a bases de dades, pot fer-se servir en tota mena de plataformes web i la seva llicència permet la lliure utilització i modificació del codi font, una combinació més que convincent en moltes ocasions.
+
+Cal destacar que el sistema de gestió de continguts web més popular(WordPress) està basat en PHP, així mateix plataformes de e-commerce, com Magento i PrestaShop i el mateix Moodle, que també estan desenvolupades en aquesta tecnologia.
+
+Per aquest motiu PHP és, amb diferència, el llenguatge de programació del costat del servidor més popular en el marc del desenvolupament web. Això es converteix en motiu suficient perquè cada vegada més usuaris/es es familiaritzin amb les possibilitats de PHP
+
+Aquest curs és dirigit a persones que es volen iniciar en el món del desenvolupament d'aplicacions web. Partint de la sintaxi bàsica, fins a la creació d'una aplicació API completa per mitjà del framework Laravel . Al llarg del curs aprendràs a crear una app des de zero, així com l'ús de tecnologies relacionades com GIT o MySQL entre d'altres.
+
+#### Objectiu General
+
+Desenvolupar aplicacions web des del disseny de base de dades fins a la maquetació web.
+
+#### Objectius específicis
+
+- Utilitzar eines relacionades amb el desenvolupament web però no directament amb el codi font(Git,Github...)
+- Maquetar planes web amb llenguatges estàndard com HTML i CSS.
+- Programar lògiques de programació en llenguatge PHP.
+- Utilitzar gestors de bases de dades com MySQL y MongoDB.
+- Passar de petits programes a projectes web a partir de l'ús de patrons de disseny i bones pràctiques.
+- Utilitzar el nostre *framework* PHP de referència, Laravel. 
+
 ### [Sprint 0: Coneixements previs a especialitat PHP](https://github.com/IT-Academy-Back/S0-Previs-PHP)
 
 - [Coneixements previs especials per a PHP](https://github.com/IT-Academy-Back/S0-Previs-PHP/blob/main/MaterialDocent/ConeixementsPrevis.md)
