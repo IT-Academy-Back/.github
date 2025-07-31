@@ -35,7 +35,7 @@
 2. [Patterns](https://github.com/IT-Academy-Back/S3-Patterns_Java/tree/main/2-Patterns)
 	1. [Patterns 1](https://github.com/IT-Academy-Back/S3-Patterns_Java/blob/main/2-Patterns/Tasca-1/README.md)
 	2. [Patterns 2](https://github.com/IT-Academy-Back/S3-Patterns_Java/blob/main/2-Patterns/Tasca-2/README.md)
-3. [Developers Team](https://github.com/orgs/IT-Academy-Back/projects/2)
+3. [Developers Team](https://github.com/IT-Academy-Back/S3-3-JAVA_dev_team)
 
 ### [Sprint 4: Spring Framework Bàsics](https://github.com/IT-Academy-Back/S4-Spring)
 1. [Introducció a Spring Boot](https://github.com/IT-Academy-Back/S4-Spring/blob/main/1-Spring_Intro/S4-01-Intro_Spring_Boot.md)
