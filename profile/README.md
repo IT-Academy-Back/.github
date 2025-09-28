@@ -45,6 +45,15 @@
 1. Spring Framework amb WebFlux
 2. Aplicació Web: Mascota Virtual
 
+---
+## Solutions (NO Moodle)
+### Sprint 1
+### Sprint 2
+### Sprint 3
+### Sprint 4
+1. [Introducció a Spring](https://github.com/IT-Academy-Back/S4-01-Spring_Rest_Introduction_Java-Solution)
+### Sprint 5
+
 
 ---
 
