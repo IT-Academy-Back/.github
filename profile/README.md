@@ -46,7 +46,7 @@
 2. Aplicació Web: Mascota Virtual
 
 ---
-## Solutions (NO Moodle)
+## Java Solutions (NO Moodle)
 ### Sprint 1
 ### Sprint 2
 ### Sprint 3
