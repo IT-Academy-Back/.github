@@ -44,7 +44,7 @@
 2. [CRUD amb Spring Boot](https://github.com/IT-Academy-Back/S4-Spring/blob/main/2-Spring_CRUD/S4-02-Api_Rest_amb%20Spring_boot.md)
 
 ### Sprint 5: Spring Framework Avançat
-1. Spring Framework amb WebFlux
+1. Disseny i arquitectura d’aplicacions [IN PROGRESS]
 2. Aplicació Web: Mascota Virtual
 
 ---
