@@ -27,10 +27,10 @@
 
 1. Tema 1: Bases de dades relacionals amb MySQL
 2. [Tasca 2.1 - Estructura de dades - MySQL](https://github.com/IT-Academy-Back/S2-Databases_Java/blob/main/2.1-Estructura_de_dades%20-%20MySQL.md)
-3. [Tasca 2.2 - MySQL queries](https://github.com/IT-Academy-Back/S2-Databases_Java/blob/main/2-SQL_Queries/Tasca%20S2.02.%20MySQL%20queries.md)
+3. [Tasca 2.2 - MySQL queries](https://github.com/IT-Academy-Back/S2-Databases_Java/blob/main/2.2-SQL_Queries/Tasca%20S2.02.%20MySQL%20queries.md)
 4. Tema 2: Bases de dades NoSQL amb MongoDB
 5. [Tasca 2.3 - Estructura de dades - MongoDB](https://github.com/IT-Academy-Back/S2-Databases_Java/blob/main/2.3-Estructura_de_dades%20-%20MongoDB.md)
-6. [Tasca 2.4 - MongoDB queries](https://github.com/IT-Academy-Back/S2-Databases_Java/blob/main/4-MongoDB_Queries/Tasca%20S2.4.%20MongoDB%20queries.md)
+6. [Tasca 2.4 - MongoDB queries](https://github.com/IT-Academy-Back/S2-Databases_Java/blob/main/2.4-MongoDB_Queries/Tasca%20S2.4.%20MongoDB%20queries.md)
 
 ### [Sprint 3: Patterns](https://github.com/IT-Academy-Back/S3-Patterns_Java/tree/main)
 1. [Principis SOLID](https://github.com/IT-Academy-Back/S3-Patterns_Java/tree/main/1-%20SOLID)
