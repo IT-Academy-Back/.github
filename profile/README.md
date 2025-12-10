@@ -33,11 +33,12 @@
 6. [Tasca 2.4 - MongoDB queries](https://github.com/IT-Academy-Back/S2-Databases_Java/blob/main/2.4-MongoDB_Queries/Tasca%20S2.4.%20MongoDB%20queries.md)
 
 ### [Sprint 3: Patterns](https://github.com/IT-Academy-Back/S3-Patterns_Java/tree/main)
-1. [Principis SOLID](https://github.com/IT-Academy-Back/S3-Patterns_Java/tree/main/1-%20SOLID)
-2. [Patterns](https://github.com/IT-Academy-Back/S3-Patterns_Java/tree/main/2-Patterns)
-	1. [Patterns 1](https://github.com/IT-Academy-Back/S3-Patterns_Java/blob/main/2-Patterns/Tasca-1/README.md)
-	2. [Patterns 2](https://github.com/IT-Academy-Back/S3-Patterns_Java/blob/main/2-Patterns/Tasca-2/README.md)
-3. [Developers Team](https://github.com/IT-Academy-Back/S3-3-JAVA_dev_team)
+1. [Tema 1: Principis SOLID](https://github.com/IT-Academy-Back/S3-Patterns_Java/blob/main/1-%20SOLID/Tema1_Principis_SOLID.md)
+2. [Tasca 3.1 - Principis SOLID](https://github.com/IT-Academy-Back/S3-Patterns_Java/tree/main/1-%20SOLID)
+3. [Tema 2: Patrons de disseny](https://github.com/IT-Academy-Back/S3-Patterns_Java/blob/main/2-Patterns/README.md)
+4. [Patterns 1](https://github.com/IT-Academy-Back/S3-Patterns_Java/blob/main/2-Patterns/Tasca-1/README.md)
+5. [Patterns 2](https://github.com/IT-Academy-Back/S3-Patterns_Java/blob/main/2-Patterns/Tasca-2/README.md)
+6. [Developers Team](https://github.com/IT-Academy-Back/S3-3-JAVA_dev_team)
 
 ### [Sprint 4: Spring Framework Bàsics](https://github.com/IT-Academy-Back/S4-Spring)
 1. [Tema 1: Introducció a Spring](https://github.com/IT-Academy-Back/S4-Spring/blob/main/1-Spring_Intro/Tema1.md)
