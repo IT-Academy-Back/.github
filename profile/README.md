@@ -48,7 +48,7 @@
 
 ### [Sprint 5: Spring Framework Avançat](https://github.com/IT-Academy-Back/S5_Advanced_Java)
 1. [Disseny i arquitectura d’aplicacions](https://github.com/IT-Academy-Back/S5-1-JAVA-disign-and-architecture) [IN PROGRESS]
-2. Aplicació Web: Mascota Virtual
+2. [Projecte Final MVP](https://github.com/IT-Academy-Back/S5_Advanced_Java/blob/main/MVP/Tasca_5.2_MVP.md)
 
 ---
 ## Java Solutions (NO Moodle)
