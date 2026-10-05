@@ -47,7 +47,7 @@
 4. [Tasca S4.2: CRUD amb Spring Boot](https://github.com/IT-Academy-Back/S4-Spring/blob/main/2-Spring_CRUD/S4-02-Api_Rest_amb%20Spring_boot.md)
 
 ### [Sprint 5: Spring Framework Avançat](https://github.com/IT-Academy-Back/S5_Advanced_Java)
-1. [Disseny i arquitectura d’aplicacions](https://github.com/IT-Academy-Back/S5-1-JAVA-disign-and-architecture) [IN PROGRESS]
+1. [Disseny i arquitectura d’aplicacions](https://github.com/IT-Academy-Back/S5_Advanced_Java/blob/main/Architecture/Tasca_5.1_Disseny_i_arquitectura_d_aplicacions.md)
 2. [Projecte Final MVP](https://github.com/IT-Academy-Back/S5_Advanced_Java/blob/main/MVP/Tasca_5.2_MVP.md)
 
 ---
